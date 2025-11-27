@@ -1,0 +1,19 @@
+{
+  "startYear": 2024,
+  "startMonth": 0,
+  "dateField": "Sampling_start_DateTime",
+  "labelColor": "#e5e7eb",
+  "textColor": "#f9fafb",
+  "dropdownBg": "#0b0b0b",
+  "dropdownTextColor": "#f9fafb",
+  "dropdownBorderColor": "#3f3f46",
+  "borderRadius": 10,
+  "labelBold": false,
+  "labelItalic": false,
+  "textBold": false,
+  "textItalic": false,
+  "labelFontFamily": "Arial, sans-serif",
+  "bodyFontFamily": "Arial, sans-serif",
+  "labelFontSize": 14,
+  "bodyFontSize": 12
+}

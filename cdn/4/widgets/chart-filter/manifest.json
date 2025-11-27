@@ -1,0 +1,25 @@
+{
+  "name": "chart-filter",
+  "label": "Chart filter",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "supportDataSource": true,
+  "outputDataSources": [
+    {
+      "id": "chart_filter_daily_bins",
+      "type": "FeatureSet",
+      "label": "Chart filter (daily bins)"
+    }
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 120
+  }
+}
