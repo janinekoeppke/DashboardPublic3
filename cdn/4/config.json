@@ -4656,7 +4656,7 @@
       "version": "1.17.0",
       "label": "Chart filter 3",
       "config": {
-        "startYear": 1930,
+        "startYear": 2024,
         "startMonth": 0,
         "dateField": "Sampling_start_DateTime",
         "labelColor": "#ffffff",
